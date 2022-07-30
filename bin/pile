@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const CLI = require('../CLI');
+const CLI = require('../lib/cli/CLI');
 
 const [,, ...args] = process.argv;
 CLI(args);
