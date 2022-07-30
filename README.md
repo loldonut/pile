@@ -21,3 +21,7 @@ cd pile
 npm link
 pile
 ```
+
+## Credits
+
+This language has been made possible thanks to [this tutorial](https://www.youtube.com/watch?v=88lmIMHhYNs&list=PLZQftyCk7_Sdu5BFaXB_jLeJ9C78si5_3)
